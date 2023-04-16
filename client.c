@@ -10,7 +10,7 @@
 
 #include <arpa/inet.h>
 
-#define PORT "20167"
+#define PORT "0"
 
 #define MAXDATASIZE 1024
 
